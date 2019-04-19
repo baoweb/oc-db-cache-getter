@@ -1,4 +1,4 @@
-<?php namespace Baoweb\Detailedreports\Controllers;
+<?php namespace Baoweb\DbCacheGetter\Classes;
 
 use Illuminate\Support\Facades\DB;
 
