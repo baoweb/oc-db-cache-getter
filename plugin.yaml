@@ -1,0 +1,6 @@
+plugin:
+    name: 'baoweb.dbcachegetter::lang.plugin.name'
+    description: 'baoweb.dbcachegetter::lang.plugin.description'
+    author: Baoweb
+    icon: oc-icon-database
+    homepage: ''
